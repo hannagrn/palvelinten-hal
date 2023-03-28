@@ -1,2 +1,4 @@
-# palvelinten-hal
- Repository for configuration management course homework (in Finnish) 
+# palvelinten-hal - Palvelinten hallinnan -kurssin repository 
+
+Hanna Gröndahl
+
