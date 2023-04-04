@@ -1,7 +1,7 @@
 # palvelinten-hal - Palvelinten hallinta -kurssin repository 
 
 Hanna Gröndahl
-3-5/2023
+2023
 
 ## Aluksi
 
