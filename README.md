@@ -12,3 +12,4 @@ This repository is for storing and hosting my homework/reports for Configuration
 - [h1 - Suolaa](https://github.com/hannagrn/palvelinten-hal/blob/main/h1.md)
 - [h2 - Demonit](https://github.com/hannagrn/palvelinten-hal/blob/main/h2.md)
 - [h3 - Git](https://github.com/hannagrn/palvelinten-hal/blob/main/h3.md)
+- [h4 - Komennus](https://github.com/hannagrn/palvelinten-hal/blob/main/h4.md)
